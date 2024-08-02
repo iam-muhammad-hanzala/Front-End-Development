@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>First Javascript Class</title>
+  </head>
+  <body>
+    <h1>Heading One</h1>
+
+    <button id="btn-heading">Change This Heading</button>
+
+    <script>
+      const selectBtnHeading = document.querySelector("#btn-heading");
+      selectBtnHeading.addEventListener("click", function (event) {
+        event.preventDefault();
+        const headingOne = document.querySelector("h1");
+        if (headingOne.innerText === "Heading One") {
+          headingOne.innerText = "Hi, This is javascript";
+        } else {
+          headingOne.innerText = "Heading One";
+        }
+      });
+
+      //   https://www.w3schools.com/js/tryit.asp?filename=tryjs_lightbulb
+    </script>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

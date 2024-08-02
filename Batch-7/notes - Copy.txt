@@ -1,0 +1,54 @@
+html stands for hyper text markup language
+
+https://www.w3schools.com/html/html_intro.asp
+
+https://www.w3schools.com/html/html_attributes.asp
+
+
+there are two types of element
+
+inline-block-element
+jitni required hai utni width lete hein
+
+block-element
+puri width lete hein
+
+download winrar software
+
+https://www.win-rar.com/download.html?&L=0
+
+
+
+
+
+self close tag example: <br />
+
+
+https://www.w3schools.com/html/html_entities.asp
+
+&copy;	is default entity for copyright
+
+
+Responsive Definition
+
+https://www.w3schools.com/css/css_rwd_intro.asp
+
+1-we need this tag in head element for responsive
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+2-Media Query Example
+
+https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery
+
+
+
+https://www.w3schools.com/css/css_positioning.asp
+
+
+
+
+https://code.visualstudio.com/download
+
+
+
+

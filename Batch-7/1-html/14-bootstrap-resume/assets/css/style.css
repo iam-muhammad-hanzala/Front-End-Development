@@ -1,0 +1,61 @@
+
+#sidebar{
+    background-color: #bd5d38;
+    height: 100vh; 
+    left: 0;
+    top: 0;
+    /* viewport=device */
+    /* device ki height k brabar = vh */
+}
+
+#sidebar ul li{
+    list-style-type: none;
+    color: #e1b6a5;
+    cursor: pointer;
+}
+#sidebar ul li:hover{
+    color: white;
+}
+#profile-img{
+    border: 10px solid #ca7d60;
+}
+
+main{
+    padding-top: 12rem;
+    padding-left: 50px !important;
+}
+.social-icons{
+    margin-top: 4rem;
+}
+.social-icon i{
+    background-color: #495057;
+    padding: 15px 17px;
+    border-radius: 50%;
+    font-size: 2rem;
+    margin-right: 1rem;
+    color: white;
+}
+
+.social-icon i:hover{
+    background-color: #bd5d38;
+}
+.social-icon .fa-facebook{
+     padding: 15px 21px;
+}
+.custom-h1{
+        font-size: 3rem;
+    font-weight: 800;
+}
+.custom-h3{
+    font-size: 1.5rem;
+}
+.custom-text-color{
+    color: #bd5d38;
+}
+.custom-underline{
+    text-decoration: underline;
+}
+
+.custom-paragraph-color{
+    color: #6c757d;
+}
